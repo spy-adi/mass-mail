@@ -9,9 +9,9 @@ import emailjs from '@emailjs/browser';
 
 const { Header, Content} = Layout;
 const { TextArea } = Input;
-const serviceID = "service_zsigzka";
-const templateID = "template_y02pa58";
-const publicKey = "6BjRZ-yBAkZhN-d3k";
+const serviceID = "";
+const templateID = "";
+const publicKey = "";
 
 function App() {
 
